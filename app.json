@@ -1,14 +1,14 @@
 {
-      "name": "Mukesh Robot",
+      "name": "Doreamon Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg",
+      "logo": "https://te.legra.ph/file/6b3f6e7f710d407313178.png",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/Noob-Mukesh/MukeshRobot",
+   "repository": "https://github.com/mrtosumemon/DoReAmOnRoBoT",
    "stack": "heroku-22",
    "addons": [
       {
