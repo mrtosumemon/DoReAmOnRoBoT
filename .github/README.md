@@ -1,6 +1,6 @@
 <h1 align="center">𝐃σɾҽαɱσ𝐍 𝐑σႦσ𝐓</h1>
 <p align="center">
-  <img src="https://github.com/mrtosumemon/DoreamonRobot/blob/main/DoreamonRobot/resources/mukesh.jpg">
+  <img src="https://te.legra.ph/file/c38cc05be2f3c2b1d7960.jpg">
 </p>
 <p align="center">
 <a href="https://github.com/mrtosumemon/DoreamonRobot/stargazers"><img src="https://img.shields.io/github/stars/mrtosumemon/DoreamonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
