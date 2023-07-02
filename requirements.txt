@@ -1,4 +1,4 @@
-	aiofiles==23.1.0
+aiofiles==23.1.0
 aiohttp==3.8.4
 apscheduler==3.6.3
 asyncio==3.4.3
@@ -56,4 +56,3 @@ openai
 pyshorteners
 faker
 pyfiglet
-Footer
