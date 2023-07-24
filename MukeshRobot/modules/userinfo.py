@@ -285,7 +285,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' \n[<a href="https://t.me/DOREAMON_UPDATE/4">ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪs ᴅɪsᴀsᴛᴇʀ ʟᴇᴠᴇʟs.</a>]'.format(
+        text += ' \n[<a href="https://t.me/The_Incricible/26">ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪs ᴅɪsᴀsᴛᴇʀ ʟᴇᴠᴇʟs.</a>]'.format(
             bot.username
         )
 
